@@ -1,0 +1,2 @@
+windows11
+Aseprite_Compilation_completed
